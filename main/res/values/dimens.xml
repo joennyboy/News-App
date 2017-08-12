@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">32dp</dimen>
+    <dimen name="xtra">29dp</dimen>
+    <dimen name="textsize">12sp</dimen>
+</resources>
