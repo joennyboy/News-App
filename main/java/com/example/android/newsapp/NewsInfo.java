@@ -1,8 +1,5 @@
 package com.example.android.newsapp;
 
-/**
- * Created by Etumusei on 7/14/2017.
- */
 
 public class NewsInfo {
     private String webTitle;
